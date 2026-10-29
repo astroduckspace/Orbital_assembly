@@ -1,6 +1,7 @@
 # Orbital_assembly
 orbital assembly (moduducks V5.0) is a fully modular space station construction system 
 orbital assembly features 49 complete, fully compatable modules
+<img width="2048" height="1536" alt="WhatsApp Image 2026-10-29 at 13 39 59" src="https://github.com/user-attachments/assets/ada643f0-016b-4551-b42f-0b8f8ca714dc" />
 
 these include:
 
@@ -25,6 +26,11 @@ two RTG modules
 Sixteen cap modules (solar variants, windows, ect)
 
 modules click together like this:
+
+
+https://github.com/user-attachments/assets/de476d81-c535-45aa-8f9c-9033b7e78c75
+
+
 https://youtu.be/t5m5jW6RJ6c
 
 notes:
